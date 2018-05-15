@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f26e89b9-f4c2-49df-8f05-f2e46da13a0b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/ie9.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/ie9.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/noscript.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_box.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_image.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/ie9.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/ie9.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_bg.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_bg.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_skel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_skel.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/noscript.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/noscript.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="f26e89b9-f4c2-49df-8f05-f2e46da13a0b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -45,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="500">
+              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
               <folding>
                 <element signature="e#13745#13751#0" expanded="true" />
               </folding>
@@ -121,73 +93,6 @@
     <option name="width" value="1080" />
     <option name="height" value="1042" />
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Assignment issuesJavaScript</id>
-          </State>
-          <State>
-            <id>CSS</id>
-          </State>
-          <State>
-            <id>Code quality toolsCSS</id>
-          </State>
-          <State>
-            <id>Code quality toolsJavaScript</id>
-          </State>
-          <State>
-            <id>CoffeeScript</id>
-          </State>
-          <State>
-            <id>Control flow issuesJavaScript</id>
-          </State>
-          <State>
-            <id>DOM issuesJavaScript</id>
-          </State>
-          <State>
-            <id>General</id>
-          </State>
-          <State>
-            <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>JavaScript function metricsJavaScript</id>
-          </State>
-          <State>
-            <id>JavaScript validity issuesJavaScript</id>
-          </State>
-          <State>
-            <id>Probable bugsCoffeeScript</id>
-          </State>
-          <State>
-            <id>Probable bugsJavaScript</id>
-          </State>
-          <State>
-            <id>Pug/Jade</id>
-          </State>
-          <State>
-            <id>Vue</id>
-          </State>
-          <State>
-            <id>XPath</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>JadeTabsAndSpaces</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -219,10 +124,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -247,34 +152,43 @@
       <option name="presentableId" value="Default" />
       <updated>1526380327329</updated>
       <workItem from="1526380328577" duration="2833000" />
-      <workItem from="1526383775206" duration="773000" />
+      <workItem from="1526383775206" duration="1061000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3606000" />
+    <option name="totallyTimeSpent" value="3894000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="2902" height="1586" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13813709" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.3301887" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13813709" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49982426" weight="0.21698113" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50123024" side_tool="true" weight="0.1371553" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49876976" visible="true" weight="0.1371553" />
+      <window_info anchor="bottom" id="Run" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49912128" weight="0.28519595" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="500">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
           <folding>
             <element signature="e#13745#13751#0" expanded="true" />
           </folding>
