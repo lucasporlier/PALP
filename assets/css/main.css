@@ -1586,3 +1586,11 @@ body.is-article-visible #footer {
 body.is-loading #footer {
     opacity: 0;
 }
+
+#facebook {
+    background-color: #3b5999;
+}
+
+#google {
+    background-color: #dd4b39;
+}
